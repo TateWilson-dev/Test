@@ -1,0 +1,3 @@
+# Normalize line endings so files are stored with LF in the repo
+# regardless of the checkout platform, avoiding CRLF/LF warnings and diffs.
+* text=auto eol=lf
